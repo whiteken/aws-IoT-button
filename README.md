@@ -1,2 +1,2 @@
 # aws-IoT-button
-PowerShell project containing for aws Lambda function
+PowerShell project for aws Lambda function
